@@ -10,21 +10,21 @@ const info = (props: any): { input: string; return: string }[] => [
   },
   {
     input: 'self.currentLocation',
-    return: '"Kent, UK"',
+    return: '"Los Angeles, CA"',
   },
 
   {
     input: 'self.interests',
-    return: '["web dev", "biology", "tennis"]',
+    return: '["Distributed Computing", "Decentralized Networks", "Blockchain"]',
   },
   {
     input: 'self.education',
-    return: '"B.Sc Biochemistry - University of Kent"',
+    return: '"B.Sc Computer Information Systems - Calfifornia Polytechnic State University, Pomona"',
   },
   {
     input: 'self.skills',
     return:
-      '[ "JavaScript", "Python", "React", "Next.JS", "Chakra-UI", "Tailwind", "SASS", "git"]',
+      '[ "Typescript", "Kubernetes", "Cloud Computing", "Next.JS", "Ansible", "Solidity", "DevOps", "Solutions Architecture"]',
   },
   {
     input: 'self.contactMe()',
