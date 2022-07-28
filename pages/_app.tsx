@@ -39,15 +39,15 @@ export default function MyApp({
   return (
     <>
       <DefaultSeo
-        defaultTitle="Michael Hall"
-        titleTemplate="%s | Michael Hall"
+        defaultTitle="Dylan Wong"
+        titleTemplate="%s | Dylan Wong"
         openGraph={{
           title: `Dylan Wong`,
           type: `website`,
           site_name: `Developer Portfolio`,
           images: [
             {
-              url: `https://github.com/dylwong/mikeroph.one/blob/main/public/static/images/profile.jpeg`,
+              url: `https://raw.githubusercontent.com/dylwong/mikeroph.one/main/public/static/images/profile.jpeg`,
               alt: `Profile Picture`,
             },
           ],
