@@ -134,7 +134,7 @@ function Nav(): JSX.Element {
                   }}
                   color={colorMode === 'light' ? 'gray.900' : 'white'}
                 >
-                  Michael Hall
+            Dylan Wong
                 </ChakraLink>
               )}
             </Link>
@@ -157,7 +157,7 @@ const AnimatedTitle = () => (
     fontWeight='semibold'
     textAlign='center'
   >
-    Michael Hall
+    Dylan Wong
     {/* eslint-disable-next-line @next/next/no-img-element */}
     <chakra.svg
       className='path-under'
