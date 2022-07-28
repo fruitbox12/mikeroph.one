@@ -80,7 +80,7 @@ export default function Home(): React.ReactElement {
                 fontSize={{ base: `5xl`, lg: `7xl` }}
                 textAlign={{ base: `center`, lg: `left` }}
               >
-                Hi, I&apos;m Michael!
+                Hi, I&apos;m Dylan!
               </Heading>
               <chakra.p
                 maxW="650px"
