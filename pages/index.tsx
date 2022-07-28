@@ -109,9 +109,8 @@ export default function Home(): React.ReactElement {
                 <Link href="/blog" passHref>
                   <ChakraLink>blogs</ChakraLink>
                 </Link>
-                . I am currently undertaking a research masters degree in
-                Computational Biology at the University of Kent; attempting to
-                predict protein function from sequence using deep learning.
+                . I am currently undertaking a bachelors degree in
+                Computer Information Systems 
               </chakra.p>
             </Flex>
           </Flex>
