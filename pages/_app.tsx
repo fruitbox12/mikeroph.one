@@ -47,7 +47,7 @@ export default function MyApp({
           site_name: `Developer Portfolio`,
           images: [
             {
-              url: `https://cdn-icons-png.flaticon.com/512/2289/2289363.png`,
+              url: `https://github.com/dylwong/mikeroph.one/blob/main/public/static/images/profile.jpeg`,
               alt: `Profile Picture`,
             },
           ],
