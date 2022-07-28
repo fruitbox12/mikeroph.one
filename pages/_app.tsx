@@ -42,12 +42,12 @@ export default function MyApp({
         defaultTitle="Michael Hall"
         titleTemplate="%s | Michael Hall"
         openGraph={{
-          title: `Michael Hall`,
+          title: `Dylan Wong`,
           type: `website`,
-          site_name: `Michael Hall`,
+          site_name: `Developer Portfolio`,
           images: [
             {
-              url: `https://www.mikeroph.one/static/images/profile.jpeg`,
+              url: `https://cdn-icons-png.flaticon.com/512/2289/2289363.png`,
               alt: `Profile Picture`,
             },
           ],
