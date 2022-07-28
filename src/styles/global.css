@@ -251,9 +251,9 @@ body,
 }
 
 .hover-link-light:hover {
-  color: var(--chakra-colors-green-500);
+  color: var(--chakra-colors-blue-500);
 }
 
 .hover-link-dark:hover {
-  color: var(--chakra-colors-green-300);
+  color: var(--chakra-colors-blue-300);
 }
